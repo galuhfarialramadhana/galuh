@@ -41,3 +41,11 @@ int main(){
 	cout <<"===================================\n\n";
 	
 }
+void laptop::jenislptp(string jenis){
+	cout <<"\n"<<"tipe "<<jenis<<endl;
+}
+	
+void laptop::ukuranlptp(string ukuran){
+	cout <<"\n"<<"ukuran "<<ukuran<<endl;
+
+}
